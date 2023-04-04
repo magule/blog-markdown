@@ -4,9 +4,10 @@ import { PostMetadata } from "./PostMetadata";
 const PostPreview = (props: PostMetadata) => {
   return (
     <div
-      className="border border-slate-400 p-4 rounded-md shadow-sm
-    bg-white"
+      className=" p-4 border-t border-slate-300 mt-4 py-4 text-slate-400"
     >
+
+      
       <p className="text-sm text-slate-400">{props.date}</p>
 
       <Link href={`/posts/${props.slug}`}>

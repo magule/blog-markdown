@@ -1,7 +1,7 @@
 ---
 title: "Napster"
 subtitle: "This is a test blog post"
-date: "2023-04-04"
+date: "04-04-2023"
 ---
 
 Napster was a peer-to-peer file sharing application. It originally launched on June 1, 1999, with an emphasis on digital audio file distribution. Audio songs shared on the service were typically encoded in the MP3 format. It was founded by Shawn Fanning, Sean Parker, and Hugo Sáez Contreras. As the software became popular, the company ran into legal difficulties over copyright infringement. It ceased operations in 2001 after losing a wave of lawsuits and filed for bankruptcy in June 2002.

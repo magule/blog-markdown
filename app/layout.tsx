@@ -14,7 +14,7 @@ export default function RootLayout({
         <Link href="/">
           <h1 className="text-2xl text-white font-bold mt-4">Furkan Kalaycioglu</h1>
         </Link>
-        <p className="text-slate-300">💻 Welcome to my blog 🤟</p>
+        <p className="text-slate-300">🪙</p>
       </div>
     </header>
   );
@@ -22,7 +22,8 @@ export default function RootLayout({
   const footer = (
     <footer>
       <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
-        <h3>Furkan Kalaycioglu</h3>
+        <h3>"The Crazy Ones"</h3>
+        <p className="text-slate-300">🪙</p>
       </div>
     </footer>
   );
