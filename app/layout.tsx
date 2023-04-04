@@ -8,15 +8,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   const header = (
+    <div>
+        <Link href="/about">
+          <h1 className="text-black mt-4">About</h1>
+        </Link>
     <header>
       <div className="text-center bg-slate-800 p-8 my-6 rounded-md">
-        
         <Link href="/">
           <h1 className="text-2xl text-white font-bold mt-4">Furkan Kalaycioglu</h1>
         </Link>
         <p className="text-slate-300">🪙</p>
+        
       </div>
     </header>
+    </div>
   );
 
   const footer = (
