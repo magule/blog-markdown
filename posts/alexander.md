@@ -6,19 +6,13 @@ date: "05-04-2023"
 
 Alexander the Great, was a king of the ancient Greek kingdom of Macedon. Until the age of 16, Alexander was tutored by Aristotle. Despite his young age, Alexander proved himself as a capable leader and commander. At the age of 20, he took the throne after his father's assassination and embarked on a mission to conquer the known world.
 
-
 ## The Conquest
-
 
 Alexander's conquests were vast and varied. He first set his sights on the Persian Empire, defeating its armies in three major battles. He then continued his campaign eastward, conquering Egypt and founding the city of Alexandria. He marched as far as India, and his army famously crossed the Hindu Kush mountains and the Indus River.
 
 Throughout his conquests, Alexander proved to be a brilliant strategist and an inspiring leader. He often led from the front, inspiring his soldiers with his bravery and charisma. His military tactics were innovative and effective, and he was able to defeat armies much larger than his own.
 
-
-
-
 ## Legacy
-
 
 Alexander's legacy extends far beyond his military conquests. He is widely regarded as one of the most important figures in history, and his influence can be seen in art, literature, and philosophy.
 
@@ -31,6 +25,3 @@ Finally, Alexander's legacy can be seen in philosophy. His conquests spread Gree
 ### Conclusion
 
 Alexander the Great was a remarkable figure in history, whose influence is still felt today. He was a brilliant military commander, a charismatic leader, and a patron of the arts and philosophy. His legacy continues to inspire and captivate people all over the world, and he remains one of the most important figures in human history.
-
-
-
